@@ -16,13 +16,25 @@ const Navbar = () => {
           <h2 className="navheading">Abdul Hanan</h2>{" "}
         </motion.span>
         <div className="social">
-          <a href="#">
+          <a
+            href="https://www.instagram.com/hanan_choudhryy?igsh=MWgyNWUzOHY0YmF0aQ%3D%3D&utm_source=qr"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src="/instagram.png" alt="Instagram" />
           </a>
-          <a href="#">
+          <a
+            href="https://www.facebook.com/hanii.chaudhry123?mibextid=LQQJ4d"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src="/facebook.png" alt="Facebook" />
           </a>
-          <a href="#">
+          <a
+            href="https://www.linkedin.com/in/abdul-hanan-9bb417306/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
             <img src="/linkedin.png" alt="LinkedIn" />
           </a>
         </div>
